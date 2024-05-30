@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="OOPC-PEOJECT" type="Java Scratch" singleton="false">
+    <option name="MAIN_CLASS_NAME" value="login.java" />
+    <module name="OOPC-PROJECT" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
